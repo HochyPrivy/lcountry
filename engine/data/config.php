@@ -6,7 +6,7 @@ $config = array (
 
 'home_title' => 'InfinityLauncher',
 
-'http_home_url' => 'http://p90260or.beget.tech/',
+'http_home_url' => 'https://hochyprivy.github.io/lcountry/',
 
 'charset' => 'utf-8',
 
